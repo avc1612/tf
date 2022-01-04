@@ -1,0 +1,35 @@
+item {
+    id: 1
+    name: 'battery'
+}
+
+item {
+    id: 2
+    name: 'pos_connected'
+}
+
+item {
+    id: 3
+    name: 'neg_connected'
+}
+
+item {
+    id: 4
+    name: 'pos_touched'
+}
+
+item {
+    id: 5
+    name: 'neg_touched'
+}
+
+item {
+    id: 6
+    name: 'pos_disconnected'
+}
+
+item {
+    id: 7
+    name: 'neg_disconnected'
+}
+
